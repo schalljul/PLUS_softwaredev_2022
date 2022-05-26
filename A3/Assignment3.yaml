@@ -1,0 +1,13 @@
+name: Assignment3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - rasterio
+  - gdal
+  - jupyter
+  - sentinelhub
+  - python=3.10
+  - folium
+prefix: C:\ProgramData\Anaconda3\envs\Assignment3
